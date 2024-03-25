@@ -100,7 +100,7 @@ void leer_consola(t_log* logger)
 	// ¡No te olvides de liberar las lineas antes de regresar!
 
 }
-
+//hola
 void paquete(int conexion)
 {
 	// Ahora toca lo divertido!
